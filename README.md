@@ -1,4 +1,4 @@
-HI! This is the repo dedicated to working on the SCANR mission — 
+HI! This is the repo dedicated to working on this year's mission — 
 target detection, distance calculation experiments, and all that good 
 stuff. Feel free to create your own notebook and 
 add to the work as you go.
