@@ -1,3 +1,3 @@
 # Docs
 
-Decisions log, trade studies, mechanism specs.
+Decisions log, trade studies, mechanism specs... 
